@@ -161,7 +161,7 @@ Model was trained and evaluated in Google Colab with MLflow experiment tracking.
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/clv-api.git
+git clone https://github.com/shobhityadav-ds/clv-api.git
 cd clv-api
 ```
 
