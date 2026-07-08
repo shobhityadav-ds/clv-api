@@ -137,10 +137,23 @@ Returns API health status.
 
 ```
 clv-api/
-├── app.py              # FastAPI application
-├── clv_model.pkl       # Trained XGBoost model
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
+│
+├── README.md
+├── app.py
+├── requirements.txt
+├── clv_model.pkl
+│
+├── data/
+│   ├── Online Retail.xlsx
+│   └── README.md
+│
+├── model/
+│   ├── clv_model.pkl
+│   └── README.md
+│
+└── notebook/
+    ├── CLV_Prediction_Colab.ipynb
+    └── README.md
 ```
 
 ---
